@@ -3,7 +3,7 @@ name: Build Image and Test with Snyk
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   docker:
