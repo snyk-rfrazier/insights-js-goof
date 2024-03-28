@@ -2,7 +2,7 @@ name: 'Provision EKS and Deploy Juice Shop'
 on:
   push:
     branches:
-    - master
+    - main
     paths:
     - '_build_flag'
 
